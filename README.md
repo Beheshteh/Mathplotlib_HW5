@@ -1,3 +1,11 @@
+Pymaceuticals is a name of company specializes in drug-based, anti-cancer pharmaceuticals. As part of their most recent efforts, they are screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+
+As their Chief Data Analyst, I have been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimens over the course of 45 days. Their physiological responses were then monitored over the course of that time. My objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+
+Below are my three observable trends based on the data.
+1.	Capomulin has the best effect on the tumor’s volume and help to reduce the size of the tumor during the time and most of the mouse will stay alive during this treatment. All three-other treatments cause the tumor’s volume increase and cause most of the mouse die. Ketapril has the worse effect on the tumor volume but Infubinol help the mouse die faster. 
+2.	All of these treatments cause the number of metastatic increase during the time but under Capomulin the speed of this expansion is lower than others and again Ketapril has the worse effect. 
+3.	In general Survival rate is better under Capomulin.
 
 
 ```python
